@@ -73,7 +73,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       width=80 
       src="https://avatars.githubusercontent.com/do-Lopes"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspLeonardo Lopes<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/do-Lopes">
     GitHub</a>&nbsp;|&nbsp;
