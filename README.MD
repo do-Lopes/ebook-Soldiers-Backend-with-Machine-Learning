@@ -77,7 +77,9 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     &nbsp&nbsp&nbsp
     <a href="https://github.com/do-Lopes">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/leonardo-lopes-8a38a3215/>LinkedIn</a>
+    <a href="www.linkedin.com/in/
+leonardo-lopes-8a38a3215/">LinkedIn</a>
+&nbsp;|
 </p>
 
 
